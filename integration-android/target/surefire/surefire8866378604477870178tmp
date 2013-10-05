@@ -1,0 +1,6 @@
+#surefire
+#Sat Oct 05 23:07:01 BST 2013
+jarsigner.skip=true
+user.dir=/home/ahmedbodi/build/worldcoin-wallet/integration-android
+localRepository=/home/ahmedbodi/.m2/repository
+basedir=/home/ahmedbodi/build/worldcoin-wallet/integration-android
